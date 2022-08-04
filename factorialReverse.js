@@ -47,6 +47,9 @@ console.log("Now it's done.");
 
 
 
+//(03) Its a while loop
+//Reverse multiplications (9 * 8 * 7 * 6 * 5 * 4 * 3 * 2 * 1)
+/*============================
 
 function factorial(number) {
   let i = number;
@@ -63,3 +66,5 @@ function factorial(number) {
 const Multiplication = factorial(9)
 console.log("factorial of :", Multiplication);
 console.log("Now it's done.");
+
+============================*/
