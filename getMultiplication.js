@@ -1,5 +1,5 @@
 
-//Multiplication is called factorial 
+//Multiplication is called factorial
 
 // (1 * 2 * 3 * 4 * 5 * 6 * 7 == ? )
 
@@ -35,4 +35,21 @@ function sumOfNumbers(number) {
 const result = sumOfNumbers(7);
 console.log("Now it's done");
 
+============================*/
+
+
+//(02) Right and its a while loop
+/*============================
+function sumOfNumbers(number) {
+  let i = 1;
+  let sum = 1;
+  while (i <= number){
+    sum = sum * i;
+    console.log(i, sum);
+    i++;
+  }
+  return sum;
+}
+const result = sumOfNumbers(7);
+console.log("Now it's done");
 ============================*/

@@ -15,9 +15,13 @@ factorial(9)
 
 ============================*/
 
-//(02)
-//Revers mood run (9 to 1)
 
+
+
+
+//(02)
+//Reverse multiplications (9 * 8 * 7 * 6 * 5 * 4 * 3 * 2 * 1)
+/*============================
 
 function factorial(number) {
   let result = 1;
@@ -25,6 +29,33 @@ function factorial(number) {
 
     result = result * i;
     console.log(i);
+  }
+  return result;
+}
+
+const Multiplication = factorial(9)
+console.log("factorial of :", Multiplication);
+console.log("Now it's done.");
+
+============================*/
+
+
+
+
+
+
+
+
+
+
+function factorial(number) {
+  let i = number;
+  let result = 1;
+  while (i >= 1){
+
+    result = result * i;
+    console.log(i);
+    i--;
   }
   return result;
 }
