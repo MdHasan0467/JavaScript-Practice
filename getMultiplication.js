@@ -22,8 +22,9 @@ console.log("Now it's done");
 
 
 //(02) Right
-/*============================
 
+// (1 * 2 * 3 * 4 * 5 * 6 * 7 * 8 * 9 * 10 * 11 * 12 == ? )
+/*============================
 function sumOfNumbers(number) {
   let sum = 1;
   for (let i = 1; i <= number; i++){
@@ -32,13 +33,15 @@ function sumOfNumbers(number) {
   }
   return sum;
 }
-const result = sumOfNumbers(7);
+const result = sumOfNumbers(12);
 console.log("Now it's done");
 
 ============================*/
 
 
-//(02) Right and its a while loop
+
+
+//(03) Right and its a while loop
 /*============================
 function sumOfNumbers(number) {
   let i = 1;
