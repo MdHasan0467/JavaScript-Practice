@@ -113,7 +113,7 @@ const verifyMurad = strongMan('Murad', 18, 6);
 
 //(05)
 // X jodi 18 years And height jodi 6 feet hoy ,,, Taholy X is a Strong man(name soho dekhao)
-
+/*============================
 
   function strongMan(name, age, feet) {
      const targetAge = 18;
@@ -137,6 +137,6 @@ const verifyMurad = strongMan('Murad', 18, 6);
   const verifyMurad = strongMan('Murad', 18, 6);
   console.log(verifyMurad);
 
-
+============================*/
 
  
