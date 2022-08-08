@@ -45,7 +45,7 @@ var total = number * number;
 console.log("Result = " + total);
 }
 
-//aikhane just function bodyr modde j valu ta declare kora chilo ,,,, seita k amra function k jeikhane call koresi seikhane diye dilam,,, just it......
+//aikhane just function bodyr modde j value ta declare kora chilo ,,,, seita k amra function k jeikhane call koresi seikhane diye dilam,,, just it......
 
 Math(5);
 
@@ -156,7 +156,7 @@ subtraction(225, 60);
 
 
 
-// (09)
+// (09)Leap Year
 /*==================================================|
 function leapYear(Year) {
   const remainder = Year % 4; //Year k 4 diye vag korle vag shesh koto thake ta ber korar jonno
@@ -175,7 +175,7 @@ function leapYear(Year) {
 
 
 
-// (10)
+// (10)Leap Year
 /*==================================================|
 function leapYear(Year) {
   const remainder = Year % 4;

@@ -56,3 +56,91 @@ function sumOfNumbers(number) {
 const result = sumOfNumbers(7);
 console.log("Now it's done");
 ============================*/
+
+
+
+
+
+
+
+
+//(04) Use add and multiplication to calculate wood requirements
+
+/*
+***Fixed value: per item wood requirments
+1. Chair ---> 3 cft
+2. Table ---> 10 cft
+3. Bed   ---> 50 cft
+
+***very/ changeble value : quantity
+*/
+
+
+function woodCalculator(chairQuantity, tableQuantity, bedQuentity) {
+  const perChair = 3; 
+  const perTable = 10; 
+  const perBed = 50; 
+
+        const totalchairWood = perChair * chairQuantity;
+        const totaltableWood = perTable * tableQuantity;
+        const totalBedWood = perBed * bedQuentity;
+  //  console.log(totalchairWood, totaltableWood, totalBedWood)
+
+  const totalWood = totalchairWood + totaltableWood + totalBedWood;
+  return totalWood;
+ }
+const totalWood = woodCalculator(0, 0, 1);
+console.log('total wood required: ', totalWood);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

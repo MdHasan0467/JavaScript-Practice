@@ -34,6 +34,10 @@ for (var i = 0; i <= 4; i++){
 console.log(total);
  ============================*/
 
+
+
+
+
 //Again
 
 /* ============================
@@ -49,8 +53,8 @@ console.log('mot = ' + total);
 
 
 
-// amra chaile Array r index value gulo k default vabe set na kore ,, User theke niye nite pari.......
-
+// amra chaile Array r index value gulo k default vabe set na kore ,, User thekeo niye nite pari.......
+/* ============================
 var number = new Array();
 for (var i = 0; i <= 5; i++){
   number[i] = parseInt(prompt("Enter a number"));
@@ -64,3 +68,4 @@ for (var i = 0; i <= 5; i++){
 }
 
 console.log("mot = " + total);
+ ============================*/
