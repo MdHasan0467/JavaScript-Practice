@@ -20,16 +20,24 @@ console.log(myInfo['weight']);
 /*============================
 const car = {
   name: 'Volvo',
+
   weight: '780kg',
+
   color: 'White',
+
   price: '25cr',
+
   production: 300,
+
   drive: function (){
     console.log('hello hasan');
+
   },
+
   start: function () {
     console.log("Now I'm Driving.");
   }
+  
 }
 
 car.drive();
@@ -43,7 +51,7 @@ car.start();
 // for this action you must call a fuction in the out side of this object body, OtherWise it doesn't work 
 
 
-/*============================
+//============================
 const car = {
   drive: function (){
   
@@ -61,7 +69,7 @@ const car = {
 
 car.drive();
 
-============================*/
+//============================
 
 
 

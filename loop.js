@@ -59,26 +59,27 @@ for (let i = 0; i <= 0; i++){
  
 
 // (06)
-/* ============================
+// ============================
+/*
 let learn = ['var', 'loop', 'condition', 'var', 'loop', 'condition'];
 for (let i = 0; i <= 5; i++){
    console.log(learn)
 }
- ============================*/
+*/
+// ============================
 
 
 
 
 
-
+// ============================
 
 const friendnames = ['loop', 'condition', 'var', 'loop', 'condition'];
 for (let i = 1; i <= 10; i++){
    console.log(friendnames);
 }
 
-
-
+// ============================
 
 
 

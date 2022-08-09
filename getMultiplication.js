@@ -64,7 +64,8 @@ console.log("Now it's done");
 
 
 
-//(04) Use add and multiplication to calculate wood requirements
+//(04) module : 22.5
+// Use add and multiplication to calculate wood requirements
 
 /*
 ***Fixed value: per item wood requirments

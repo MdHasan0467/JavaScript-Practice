@@ -42,22 +42,17 @@ for (let i = 1; i <= 15; i++){
 
 
 //(04)
-//(i er j man ber hobe tar shathe 20 kore jog hobe) jemon-
+//(i er j man ber hobe tar shathe 20 jog hobe) jemon-
 // 1+20 = 20; 20+20 = 40; 40+20 = 60;
-
+//=============================================
 var addition = 0;
 for (let i = 1; i <= 20; i++){
   addition = addition + 20;
-  console.log(i, addition)
+  // console.log(i, addition)
 }
 
 
-
-
-
-
-
-/*=========conver it with a function===================
+//=========Conver it with a function=============
 
 function sumOfNumbers(number) {
   let sum = 0;
@@ -70,4 +65,5 @@ function sumOfNumbers(number) {
 const result = sumOfNumbers(7);
 console.log("Now it's done");
 
-============================*/
+
+//=============================================
